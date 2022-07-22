@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap'); */
+
+
+*, *:before, *:after {
+  box-sizing: border-box;
+
+
+}
+
+body {
+
+  --color-primary: #9bb83c;
+  --primary-hover: #8baa3c;
+  --color-secondary: #ff8100;
+  --secondary-hover: #e57706;
+  --color-tertiary: #49aeef;
+  --tertiary-hover: #3c9ee0;
+
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+  background-color: #EEE;
+
+}
